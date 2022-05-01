@@ -10,7 +10,7 @@
 - 📫 How to reach me:Instagram: https://instagram.com/sachinbhardwaj989</br>
 - 😄 Pronouns:He/His</br>
 - ⚡ Fun fact:Book Lover 📚 & gymming 🏋️‍♂️</br>
-<h2>Find me on Coding Platforms:</h2><a href="https://leetcode.com/profile/account/"><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/leetcode.svg"></a><span> </span><a href="https://www.hackerrank.com/sachinbca00"><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/hackerrank.svg"></a><span> </span><a href="https://auth.geeksforgeeks.org/user/monuv6342/profile"><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/geeekforgeeks.svg"></a>
+<h2>Find me on Coding Platforms:</h2><a href="#"><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/leetcode.svg"></a><span> </span><a href="https://www.hackerrank.com/sachinbca00"><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/hackerrank.svg"></a><span> </span><a href="#"><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/geeekforgeeks.svg"></a>
  <H2>Skills 💡:</h2>
 <table>
   <tr>
