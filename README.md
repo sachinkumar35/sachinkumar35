@@ -41,10 +41,10 @@
    
 
 <img src="https://github-readme-stats.vercel.app/api?username=sachinkumar35&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/4.svg">
+<img src="https://github.com/sachinkumar35/GitImg/blob/eb59b126c9fc2d7b843320a69853eeb79ffc8f23/4.svg">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachinkumar35&theme=black-ice&hide_border=true">
 <img src="https://activity-graph.herokuapp.com/graph?username=sachinkumar35&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true">
-<h2>Connect With Me</H2><a href="https://instagram.com/sachinbhardwaj989"><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/icons8-instagram-48.png"></a><a href="https://www.facebook.com/naveen.bhardwaj.92505"><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/icons8-facebook-48.png"></a><a href="https://in.linkedin.com/in/sachinkumarbca/"><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/icons8-linkedin-circled-48.png"></a><a href="https://instagram.com/mrverma6612"><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/icons8-twitter-48.png"></a>
+<h2>Connect With Me</H2><a href="https://instagram.com/sachinbhardwaj989"><img src="https://github.com/sachinkumar35/GitImg/blob/77325b7ff9a9b39d8a2b8fb9b46d1041e4bc29fc/icons8-instagram-48.png"></a><a href="https://www.facebook.com/naveen.bhardwaj.92505"><img src="https://github.com/sachinkumar35/GitImg/blob/77325b7ff9a9b39d8a2b8fb9b46d1041e4bc29fc/icons8-facebook-48.png"></a><a href="https://in.linkedin.com/in/sachinkumarbca/"><img src="https://github.com/sachinkumar35/GitImg/blob/77325b7ff9a9b39d8a2b8fb9b46d1041e4bc29fc/icons8-linkedin-circled-48.png"></a><a href="#"><img src="https://github.com/sachinkumar35/GitImg/blob/77325b7ff9a9b39d8a2b8fb9b46d1041e4bc29fc/icons8-twitter-48.png"></a>
 <h2> ❤️Views And Followers</h2>
- <img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/pv.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/followers.svg">
-<h2>Support:</h2><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/buy.svg">
+ <img src="https://github.com/sachinkumar35/GitImg/blob/eb59b126c9fc2d7b843320a69853eeb79ffc8f23/pv.svg"><span> </span><img src="https://github.com/sachinkumar35/GitImg/blob/eb59b126c9fc2d7b843320a69853eeb79ffc8f23/followers.svg">
+<h2>Support:</h2><img src="https://github.com/sachinkumar35/GitImg/blob/eb59b126c9fc2d7b843320a69853eeb79ffc8f23/buy.svg">
