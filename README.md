@@ -15,7 +15,7 @@
 <table>
   <tr>
     <td><h3>Programming language</h3></td>
-    <td><img src="https://github.com/sachinkumar35/GitImg/blob/d42297f30959abc20496680a246c2127cb1f3990/clang.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/cpp.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/python.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/java.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/javascript.svg"></td>
+    <td><img src="https://github.com/sachinkumar35/GitImg/blob/94b875a1e918117ac95d87f2080b1bf1c381dd88/clang.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/cpp.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/python.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/java.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/javascript.svg"></td>
   </tr>
    <tr>
      <td><h3>Front-end Development</h3></td>
