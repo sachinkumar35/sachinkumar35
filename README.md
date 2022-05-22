@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td><h3>Back-end Development & database</h3></td>
-    <td><img src="https://github.com/sachinkumar35/GitImg/blob/fa70d1c63ff67046ef79c9a6de8825492cfdeb3a/express.svg"><span> </span><img src="https://github.com/sachinkumar35/GitImg/blob/fa70d1c63ff67046ef79c9a6de8825492cfdeb3ar/mongodb.svg"><span> </span><img src="https://github.com/sachinkumar35/GitImg/blob/fa70d1c63ff67046ef79c9a6de8825492cfdeb3a/nodejs.svg"><span> </span></td>
+    <td><img src="https://github.com/sachinkumar35/GitImg/blob/fa70d1c63ff67046ef79c9a6de8825492cfdeb3a/express.svg"><span> </span><img src="https://github.com/sachinkumar35/GitImg/blob/fa70d1c63ff67046ef79c9a6de8825492cfdeb3a/mongodb.svg"><span> </span><img src="https://github.com/sachinkumar35/GitImg/blob/fa70d1c63ff67046ef79c9a6de8825492cfdeb3a/nodejs.svg"><span> </span></td>
   </tr>
   <tr>
     <td><h3>Tools</h3></td>
