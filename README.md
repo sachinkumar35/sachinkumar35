@@ -19,7 +19,7 @@
   </tr>
    <tr>
      <td><h3>Front-end Development</h3></td>
-    <td><img src="https://github.com/sachinkumar35/GitImg/blob/94b875a1e918117ac95d87f2080b1bf1c381dd88/css3.svg"><span> </span>
+    <td><img src="https://github.com/sachinkumar35/GitImg/blob/fa70d1c63ff67046ef79c9a6de8825492cfdeb3a/css3.svg"><span> </span>
      <img src="https://github.com/sachinkumar35/GitImg/blob/94b875a1e918117ac95d87f2080b1bf1c381dd88/html5.svg"><span> </span><img src="https://github.com/sachinkumar35/GitImg/blob/94b875a1e918117ac95d87f2080b1bf1c381dd88/react.svg"><span> </span><img src="https://github.com/sachinkumar35/GitImg/blob/94b875a1e918117ac95d87f2080b1bf1c381dd88/javascript.svg"><span> </span><img src="https://github.com/sachinkumar35/GitImg/blob/94b875a1e918117ac95d87f2080b1bf1c381dd88/bootstrap.svg"><span> </span></td>
   </tr>
   <tr>
