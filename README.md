@@ -20,19 +20,19 @@
    <tr>
      <td><h3>Front-end Development</h3></td>
     <td><img src="https://github.com/sachinkumar35/GitImg/blob/fa70d1c63ff67046ef79c9a6de8825492cfdeb3a/css3.svg"><span> </span>
-     <img src="https://github.com/sachinkumar35/GitImg/blob/94b875a1e918117ac95d87f2080b1bf1c381dd88/html5.svg"><span> </span><img src="https://github.com/sachinkumar35/GitImg/blob/94b875a1e918117ac95d87f2080b1bf1c381dd88/react.svg"><span> </span><img src="https://github.com/sachinkumar35/GitImg/blob/94b875a1e918117ac95d87f2080b1bf1c381dd88/javascript.svg"><span> </span><img src="https://github.com/sachinkumar35/GitImg/blob/94b875a1e918117ac95d87f2080b1bf1c381dd88/bootstrap.svg"><span> </span></td>
+     <img src="https://github.com/sachinkumar35/GitImg/blob/fa70d1c63ff67046ef79c9a6de8825492cfdeb3a/html5.svg"><span> </span><img src="https://github.com/sachinkumar35/GitImg/blob/fa70d1c63ff67046ef79c9a6de8825492cfdeb3a/react.svg"><span> </span><img src="https://github.com/sachinkumar35/GitImg/blob/fa70d1c63ff67046ef79c9a6de8825492cfdeb3a/javascript.svg"><span> </span><img src="https://github.com/sachinkumar35/GitImg/blob/fa70d1c63ff67046ef79c9a6de8825492cfdeb3a/bootstrap.svg"><span> </span></td>
   </tr>
   <tr>
     <td><h3>Back-end Development & database</h3></td>
-    <td><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/express.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/mongodb.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/nodejs.svg"><span> </span></td>
+    <td><img src="https://github.com/sachinkumar35/GitImg/blob/fa70d1c63ff67046ef79c9a6de8825492cfdeb3a/express.svg"><span> </span><img src="https://github.com/sachinkumar35/GitImg/blob/fa70d1c63ff67046ef79c9a6de8825492cfdeb3ar/mongodb.svg"><span> </span><img src="https://github.com/sachinkumar35/GitImg/blob/fa70d1c63ff67046ef79c9a6de8825492cfdeb3a/nodejs.svg"><span> </span></td>
   </tr>
   <tr>
     <td><h3>Tools</h3></td>
-    <td><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/sublime.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/github.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/git.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/postman.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/eclipse.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/vscode.svg"><span> </span></td>
+    <td><img src="https://github.com/sachinkumar35/GitImg/blob/fa70d1c63ff67046ef79c9a6de8825492cfdeb3a/sublime.svg"><span> </span><img src="https://github.com/sachinkumar35/GitImg/blob/fa70d1c63ff67046ef79c9a6de8825492cfdeb3a/github.svg"><span> </span><img src="https://github.com/sachinkumar35/GitImg/blob/fa70d1c63ff67046ef79c9a6de8825492cfdeb3a/git.svg"><span> </span><img src="https://github.com/sachinkumar35/GitImg/blob/fa70d1c63ff67046ef79c9a6de8825492cfdeb3a/postman.svg"><span> </span><img src="https://github.com/sachinkumar35/GitImg/blob/fa70d1c63ff67046ef79c9a6de8825492cfdeb3a/eclipse.svg"><span> </span><img src="https://github.com/sachinkumar35/GitImg/blob/fa70d1c63ff67046ef79c9a6de8825492cfdeb3a/vscode.svg"><span> </span></td>
   </tr>
   <tr>
     <td><h3>Machine Learning</h3></td>
-    <td><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/numpy.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/pandas.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/tensorflow.svg"><span> </span></td>
+    <td><img src="https://github.com/sachinkumar35/GitImg/blob/fa70d1c63ff67046ef79c9a6de8825492cfdeb3a/numpy.svg"><span> </span><img src="https://github.com/sachinkumar35/GitImg/blob/fa70d1c63ff67046ef79c9a6de8825492cfdeb3a/pandas.svg"><span> </span><img src="https://github.com/sachinkumar35/GitImg/blob/fa70d1c63ff67046ef79c9a6de8825492cfdeb3a/tensorflow.svg"><span> </span></td>
   </tr>
  
   </table>
