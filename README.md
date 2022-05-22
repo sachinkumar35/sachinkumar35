@@ -10,12 +10,12 @@
 - 📫 How to reach me:Instagram: https://instagram.com/sachinbhardwaj989</br>
 - 😄 Pronouns:He/His</br>
 - ⚡ Fun fact:Book Lover 📚 & gymming 🏋️‍♂️</br>
-<h2>Find me on Coding Platforms:</h2><a href="#"><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/leetcode.svg"></a><span> </span><a href="https://www.hackerrank.com/sachinbca00"><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/hackerrank.svg"></a><span> </span><a href="#"><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/geeekforgeeks.svg"></a>
+<h2>Find me on Coding Platforms:</h2><a href="#"><img src="https://github.com/sachinkumar35/GitImg/blob/d42297f30959abc20496680a246c2127cb1f3990/leetcode.svg"></a><span> </span><a href="https://www.hackerrank.com/sachinbca00"><img src="https://github.com/sachinkumar35/GitImg/blob/d42297f30959abc20496680a246c2127cb1f3990/hackerrank.svg"></a><span> </span><a href="#"><img src="https://github.com/sachinkumar35/GitImg/blob/d42297f30959abc20496680a246c2127cb1f3990/geeekforgeeks.svg"></a>
  <H2>Skills 💡:</h2>
 <table>
   <tr>
     <td><h3>Programming language</h3></td>
-    <td><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/clang.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/cpp.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/python.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/java.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/javascript.svg"></td>
+    <td><img src="https://github.com/sachinkumar35/GitImg/blob/d42297f30959abc20496680a246c2127cb1f3990/clang.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/cpp.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/python.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/java.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/javascript.svg"></td>
   </tr>
    <tr>
      <td><h3>Front-end Development</h3></td>
