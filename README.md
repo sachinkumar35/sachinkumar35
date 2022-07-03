@@ -3,12 +3,13 @@
 <a href="https://www.linkedin.com/in/sachinkumarbca/"><img alt="" src="https://github.com/sachinkumar35/repo2/blob/main/a1da3aad351745872fc85891324d02f5.jpg" width="100%" height="100%" /></a>
 </p>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Sachin kumar Bhardwaj</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Sachin kumar Bhardwaj</h1>
 <h3 align="center"> A Passionate Java Developer from India</h3>
 <p align="left">
+
 <a href="https://linkedin.com/in/sachinkumarbca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachinkumarbca" height="30" width="40" /></a>
 </p>
-
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/15/22/dd/1522ddece6c1e3ab7ee15871255d3ec8.gif">
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently working on **Spring Boot Framework and DSA**.</br>
 - 🌱 I’m currently learning **DSA Self Paced Course.**<br>
