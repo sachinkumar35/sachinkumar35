@@ -4,6 +4,7 @@
 </p>
 <img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/15/22/dd/1522ddece6c1e3ab7ee15871255d3ec8.gif">
 <h1 align="center">Hi <img width="150" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"> I'm Sachin kumar Bhardwaj</h1>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="center"> A Passionate Java Developer from India</h3>
 <p align="left">
 
