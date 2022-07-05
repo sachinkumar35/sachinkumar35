@@ -1,6 +1,6 @@
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sachinkumarbca/"><img alt="" src="https://github.com/sachinkumar35/repo2/blob/main/a1da3aad351745872fc85891324d02f5.jpg" width="100%" height="100%" /></a>
+<a href="https://www.linkedin.com/in/sachinkumarbca/"><img alt="" src="20220705_2230491.gif" width="100%" height="100%" /></a>
 </p>
 <img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/15/22/dd/1522ddece6c1e3ab7ee15871255d3ec8.gif">
 <h1 align="center">Hi <img width="150" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"> I'm Sachin kumar Bhardwaj</h1>
